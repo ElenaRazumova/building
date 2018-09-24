@@ -16,7 +16,7 @@ namespace HelloApp
     {
 
         private int  number = 5;
-        private double height = 20; //высота
+        private double height = 20; //высотаnb
         private int floor = 9; // кол-во этажей
         private int apartment = 180; //кол-во квартир 
         private int entrance = 4; //кол-во подъездов
